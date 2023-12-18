@@ -1,3 +1,3 @@
-console.log("singaraj")
-name ="singaraj"
+console.log("singaraj DHIVYA")
+name ="singaraj dhivya"
 console.log(name)
