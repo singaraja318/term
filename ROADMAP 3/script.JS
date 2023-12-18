@@ -1,4 +1,12 @@
-console.log(a);
-a = 15;
-console.log(a);
+function fnName() {
+    console.log("function works");
+}
+
+let anousFunc = function () {
+    console.log(" 1 3 5 7 9 ");
+}
+
+anousFunc();
+
+
 
